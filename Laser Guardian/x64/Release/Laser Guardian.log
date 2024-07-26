@@ -1,0 +1,75 @@
+﻿  Background.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Background.cpp(11,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Credits.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Credits.cpp(11,27): warning C4129: 'A': unrecognized character escape sequence
+  Enemy.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Enemy.cpp(9,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Explosion.cpp
+  Game.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Game.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Game.cpp(83,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Game.cpp(87,89): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Game.cpp(97,90): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Game.cpp(107,86): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Laser.cpp
+  Main.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Main.cpp(13,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Main.cpp(13,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Main.cpp(58,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Main.cpp(58,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  MainMenu.cpp
+  Player.cpp
+C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\Player.cpp(9,35): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Laser Guardian.vcxproj -> C:\Users\mjrle\OneDrive\Documents\Important documents\VS Projects\Laser Guardian\x64\Release\Laser Guardian.exe
